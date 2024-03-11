@@ -1,0 +1,12 @@
+#Biodata Sederhana
+nama = "Nurfadilah"
+kelas ="TI 23 M"
+jurusan = "Teknik Informatika"
+Quote = "nothings's as good as it seems"
+
+#Menampilkan Biodata
+print("Biodata Saya")
+print("Nama   :",nama)
+print("Kelas  :",kelas)
+print("Jurusan:",jurusan)
+print("quote   :",quote)
